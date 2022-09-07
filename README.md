@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreanyoga18
-- 👀 I’m interested in Artificial Intellegent
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me mail me @ andreanyoga18@gmail.com
